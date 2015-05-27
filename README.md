@@ -11,6 +11,8 @@ copyrighted under MIT license by
 	Leibniz Institute for Regional Geography,
 	Leipzig, Germany
 	2014
+	
+[Requirement Analysis](https://github.com/omoa/omoa-js/wiki/requirement_analysis)
 
 website: http://www.omoa-project.org
 
